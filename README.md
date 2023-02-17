@@ -1,4 +1,4 @@
-# Fancy-button-hover-effect
+# Fancy button hover effect
 
 ### Try the [Fancy button hover effect](https://guillaumeauger85.github.io/Fancy-button-hover-effect/)
 
